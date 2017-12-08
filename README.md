@@ -1,10 +1,15 @@
 # RTL8723DS_BT_Linux
 
 rtl8723ds default settings:
+
 H5 protocol
+
 Flow Control on
+
 parity even
+
 internal 32k clock
+
 
 Host cts need connected to ground
 
