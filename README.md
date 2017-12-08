@@ -21,7 +21,7 @@ lsmod | grep hci_uart
 sudo make install
 sudo rtk_hciattach -n -s 115200 ttyUSB0 rtk_h5
 
-#you can change ttyUSB0 set-up depends on different requirements
+**you can change ttyUSB0 set-up depends on different requirements**
 
 
 
