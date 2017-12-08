@@ -20,14 +20,10 @@ Host cts need connected to ground
     sudo apt-get install bluetooth blueman bluez bluez-tools rfkill libbluetooth-dev
 
     sudo vi /etc/modules
-
     add hci_uart in last line
-
     reboot
-
-
+    
     lsmod | grep hci_uart
-
 
     sudo make install
 
