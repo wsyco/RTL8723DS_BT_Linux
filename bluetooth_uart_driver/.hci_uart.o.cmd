@@ -1,0 +1,1 @@
+cmd_/home/wsyrd/rtl8723ds_bt/bluetooth_uart_driver/hci_uart.o := ld -m elf_x86_64   -r -o /home/wsyrd/rtl8723ds_bt/bluetooth_uart_driver/hci_uart.o /home/wsyrd/rtl8723ds_bt/bluetooth_uart_driver/hci_ldisc.o /home/wsyrd/rtl8723ds_bt/bluetooth_uart_driver/hci_h4.o /home/wsyrd/rtl8723ds_bt/bluetooth_uart_driver/hci_rtk_h5.o /home/wsyrd/rtl8723ds_bt/bluetooth_uart_driver/rtk_coex.o 

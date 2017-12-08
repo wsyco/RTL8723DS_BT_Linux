@@ -1,0 +1,1 @@
+cmd_/home/wsyrd/rtl8723ds_bt/bluetooth_uart_driver/hci_uart.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-32-generic/scripts/module-common.lds --build-id  -o /home/wsyrd/rtl8723ds_bt/bluetooth_uart_driver/hci_uart.ko /home/wsyrd/rtl8723ds_bt/bluetooth_uart_driver/hci_uart.o /home/wsyrd/rtl8723ds_bt/bluetooth_uart_driver/hci_uart.mod.o
